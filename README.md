@@ -7,4 +7,4 @@ its a python script so python should be installed.
 
 
 EXECUTING:
-python clip
+python clip_copy.py
